@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Turn (1/3)
+## Isaiah 30:15-22
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/turn.svg)](https://travis-ci.org/sermons/turn)
+[![Node deps](https://david-dm.org/sermons/turn.svg)](https://david-dm.org/sermons/turn)
+[![Node devDeps](https://david-dm.org/sermons/turn/dev-status.svg)](https://david-dm.org/sermons/turn?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

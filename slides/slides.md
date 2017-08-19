@@ -35,11 +35,13 @@ like a **banner** on a hill.”
 ---
 [18](# "ref")
 Yet the Lord **longs** to be gracious to you; <br/>
-therefore he will **rise up** to show you compassion.
+therefore he will **rise up** <br/>
+to show you compassion.
 
 For the Lord is a God of **justice**. <br/>
 Blessed are all who **wait** for him!
 
+---
 [19](# "ref")
 People of Zion, who live in Jerusalem, <br/>
 you will **weep** no more.
@@ -52,7 +54,8 @@ As soon as he hears, he will **answer** you.
 ---
 [20](# "ref")
 Although the Lord gives you  <br/>
-the bread of **adversity** and the water of **affliction**, <br/>
+the bread of **adversity** <br/>
+and the water of **affliction**, <br/>
 your **teachers** will be hidden no more; <br/>
 with your own eyes you will **see** them.
 
@@ -151,7 +154,8 @@ Therefore your **pursuers** will be swift!
 “Woe to the **obstinate** children,” <br/>
 declares the Lord,
 
-“to those who carry out **plans** that are not mine, <br/>
+“to those who carry out **plans** <br/>
+that are not mine, <br/>
 forming an **alliance**, but not by my Spirit, <br/>
 heaping **sin** upon sin
 
@@ -202,9 +206,9 @@ to show you **compassion**.
 ---
 Then the Lord [...] proclaimed his **name**: [...]
 
-“The Lord, the Lord,
-the **compassionate** and gracious God,
-slow to **anger**,
+“The Lord, the Lord, <br/>
+the **compassionate** and gracious God, <br/>
+slow to **anger**, <br/>
 abounding in **love** and faithfulness
 
 [Exodus 34:5-6 (NIV)](# "ref")
@@ -217,7 +221,8 @@ For the Lord is a God of **justice**. <br/>
 Blessed are all who **wait** for him!
 
 [19](# "ref")
-How **gracious** he will be when you cry for help! <br/>
+How **gracious** he will be <br/>
+when you cry for help! <br/>
 As soon as he hears, he will **answer** you.
 
 [Isaiah 30:18,19 (NIV)](# "ref")
@@ -238,7 +243,8 @@ As soon as he hears, he will **answer** you.
 
 ---
 Although the Lord gives you  <br/>
-the bread of **adversity** and the water of **affliction**,
+the bread of **adversity** <br/>
+and the water of **affliction**,
 
 your **teachers** will be hidden no more; <br/>
 with your own eyes you will **see** them.
@@ -314,7 +320,12 @@ Your **face**, Lord, I will seek.
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-closing
+In **repentance** and **rest** is your salvation, <br/>
+in **quietness** and **trust** is your strength, <br/>
+
+but you would have **none** of it.
+
+[Isaiah 30:15 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->

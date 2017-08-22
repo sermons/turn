@@ -142,7 +142,7 @@ to look God in the face and say, "**No**".
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **obey** God to find rest?
+# Do I **trust** God to give me rest?
 
 ---
 <!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->

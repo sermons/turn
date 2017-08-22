@@ -141,7 +141,7 @@ to look God in the face and say, "**No**".
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **willing** to ask God for rest? 
+# Will I **obey** God to find rest? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->

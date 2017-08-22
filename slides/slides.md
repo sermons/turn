@@ -1,10 +1,10 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->
 # TURN
 ## Isaiah 30:15-22
 
 ---
 <!-- .slide: data-background="white" -->
-# What do I do to **relax**? 
+# What do I do to **relax**?
 
 [###](#/outline "secret")
 
@@ -85,7 +85,7 @@ and say to them, “**Away** with you!”
 [Isaiah 30:22 (NIV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> id="outline" -->
 1. **Turn** to the Saviour's Rest [(v15)](# "ref") <br/>
   <span class="zh">回歸救主的安息</span>
 1. Away From Our Own **Tactics** [(v16-17)](# "ref") <br/>
@@ -141,16 +141,20 @@ to look God in the face and say, "**No**".
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **obey** God to find rest? 
+# Will I **obey** God to find rest?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Turn <%= bible('(Is30)') %>
-1. Turn to the Saviour's Rest [(v15)](# "ref")
-1. **Away From Our Own Tactics** [(v16-17)](# "ref")
-1. The LORD Waits with Tender Heart [(v18-19)](# "ref")
-1. Our Teacher Calls Us [(v20-21)](# "ref")
-1. Throw Away Our Idols [(v22)](# "ref")
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->
+1. Turn to the Saviour's Rest [(v15)](# "ref") <br/>
+  <span class="zh">回歸救主的安息</span>
+1. **Away From Our Own Tactics** [(v16-17)](# "ref") <br/>
+  <span class="zh">遠離我們自己的策略</span>
+1. The LORD Waits with Tender Heart [(v18-19)](# "ref") <br/>
+  <span class="zh">耶和華溫柔等待</span>
+1. Our Teacher Calls Us [(v20-21)](# "ref") <br/>
+  <span class="zh">我們的教師呼昭我們</span>
+1. Throw Away Our Idols [(v22)](# "ref") <br/>
+  <span class="zh">拋棄我們的偶像</span>
 
 ---
 You said, ‘**No**, we will flee on horses.’ <br/>
@@ -199,16 +203,20 @@ like a **banner** on a hill.”
 
 ---
 <!-- .slide: data-background="white" -->
-# What **plans** have I made apart from God? 
+# What **plans** have I made apart from God?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Turn <%= bible('(Is30)') %>
-1. Turn to the Saviour's Rest [(v15)](# "ref")
-1. Away From Our Own Tactics [(v16-17)](# "ref")
-1. **The LORD Waits with Tender Heart** [(v18-19)](# "ref")
-1. Our Teacher Calls Us [(v20-21)](# "ref")
-1. Throw Away Our Idols [(v22)](# "ref")
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->
+1. Turn to the Saviour's Rest [(v15)](# "ref") <br/>
+  <span class="zh">回歸救主的安息</span>
+1. Away From Our Own Tactics [(v16-17)](# "ref") <br/>
+  <span class="zh">遠離我們自己的策略</span>
+1. **The LORD Waits with Tender Heart** [(v18-19)](# "ref") <br/>
+  <span class="zh">耶和華溫柔等待</span>
+1. Our Teacher Calls Us [(v20-21)](# "ref") <br/>
+  <span class="zh">我們的教師呼昭我們</span>
+1. Throw Away Our Idols [(v22)](# "ref") <br/>
+  <span class="zh">拋棄我們的偶像</span>
 
 ---
 Yet the Lord **longs** to be **gracious** to you;
@@ -261,13 +269,17 @@ As soon as he hears, he will **answer** you.
 # Do I think of God as **severe** or **gracious**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Turn <%= bible('(Is30)') %>
-1. Turn to the Saviour's Rest [(v15)](# "ref")
-1. Away From Our Own Tactics [(v16-17)](# "ref")
-1. The LORD Waits with Tender Heart [(v18-19)](# "ref")
-1. **Our Teacher Calls Us** [(v20-21)](# "ref")
-1. Throw Away Our Idols [(v22)](# "ref")
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->
+1. Turn to the Saviour's Rest [(v15)](# "ref") <br/>
+  <span class="zh">回歸救主的安息</span>
+1. Away From Our Own Tactics [(v16-17)](# "ref") <br/>
+  <span class="zh">遠離我們自己的策略</span>
+1. The LORD Waits with Tender Heart [(v18-19)](# "ref") <br/>
+  <span class="zh">耶和華溫柔等待</span>
+1. **Our Teacher Calls Us** [(v20-21)](# "ref") <br/>
+  <span class="zh">我們的教師呼昭我們</span>
+1. Throw Away Our Idols [(v22)](# "ref") <br/>
+  <span class="zh">拋棄我們的偶像</span>
 
 ---
 Although the Lord gives you  <br/>
@@ -308,13 +320,17 @@ saying, “This is the **way**; walk in it.”
 # Is God's will **knowable**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Turn <%= bible('(Is30)') %>
-1. Turn to the Saviour's Rest [(v15)](# "ref")
-1. Away From Our Own Tactics [(v16-17)](# "ref")
-1. The LORD Waits with Tender Heart [(v18-19)](# "ref")
-1. Our Teacher Calls Us [(v20-21)](# "ref")
-1. **Throw Away Our Idols** [(v22)](# "ref")
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->
+1. Turn to the Saviour's Rest [(v15)](# "ref") <br/>
+  <span class="zh">回歸救主的安息</span>
+1. Away From Our Own Tactics [(v16-17)](# "ref") <br/>
+  <span class="zh">遠離我們自己的策略</span>
+1. The LORD Waits with Tender Heart [(v18-19)](# "ref") <br/>
+  <span class="zh">耶和華溫柔等待</span>
+1. Our Teacher Calls Us [(v20-21)](# "ref") <br/>
+  <span class="zh">我們的教師呼昭我們</span>
+1. **Throw Away Our Idols** [(v22)](# "ref") <br/>
+  <span class="zh">拋棄我們的偶像</span>
 
 ---
 Then you will **desecrate**  <br/>
@@ -350,7 +366,7 @@ Your **face**, Lord, I will seek.
 
 ---
 <!-- .slide: data-background="white" -->
-# Amid **stress**, do **seek** God alone? 
+# Amid **stress**, do **seek** God alone?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->

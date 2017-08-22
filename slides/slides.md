@@ -326,7 +326,7 @@ saying, “This is the **way**; walk in it.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Is God's will **knowable**?
+# Do I seek God's **instruction**?
 
 ---
 <!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->

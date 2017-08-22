@@ -87,11 +87,21 @@ and say to them, “**Away** with you!”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Turn <%= bible('(Is30)') %>
-1. **Turn** to the Saviour's Rest [(v15)](# "ref")
-1. Away From Our Own **Tactics** [(v16-17)](# "ref")
-1. The LORD Waits with **Tender** Heart [(v18-19)](# "ref")
-1. Our **Teacher** Calls Us [(v20-21)](# "ref")
-1. **Throw** Away Our Idols [(v22)](# "ref")
+1. **Turn** to the Saviour's Rest
+  <span class="zh">回歸救主的安息</span>
+  [(v15)](# "ref")
+1. Away From Our Own **Tactics**
+  <span class="zh">遠離我們自己的策略</span>
+  [(v16-17)](# "ref")
+1. The LORD Waits with **Tender** Heart
+  <span class="zh">耶和華溫柔等待</span>
+  [(v18-19)](# "ref")
+1. Our **Teacher** Calls Us
+  <span class="zh">我們的教師呼昭我們</span>
+  [(v20-21)](# "ref")
+1. **Throw** Away Our Idols
+  <span class="zh">拋棄我們的偶像</span>
+  [(v22)](# "ref")
 
 ---
 In **repentance** and **rest** is your salvation, <br/>

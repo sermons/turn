@@ -86,7 +86,6 @@ and say to them, “**Away** with you!”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Turn <%= bible('(Is30)') %>
 1. **Turn** to the Saviour's Rest [(v15)](# "ref") <br/>
   <span class="zh">回歸救主的安息</span>
 1. Away From Our Own **Tactics** [(v16-17)](# "ref") <br/>

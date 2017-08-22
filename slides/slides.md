@@ -377,7 +377,7 @@ Your **face**, Lord, I will seek.
 
 ---
 <!-- .slide: data-background="white" -->
-# Amid **stress**, do **seek** God alone?
+# Amid **stress**, do I **seek** God alone?
 
 ---
 <!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->

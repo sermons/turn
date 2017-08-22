@@ -4,9 +4,15 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# How do I **relax**? 
 
 [###](#/outline "secret")
+
+>>>
++ "de-stress", cope
++ sleep: **avoid**
++ work, tidy: **distract**
++ plan, direct, boss: **control**
 
 ---
 In **repentance** and **rest** is your salvation, <br/>
@@ -81,11 +87,11 @@ and say to them, “**Away** with you!”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Turn <%= bible('(Is30)') %>
-1. **Turn** to the Saviour's Rest <%= bible('is30.15', '(v15)') %>
-1. Away From Our Own **Tactics** <%= bible('is30.16-17', '(v16-17)') %>
-1. The LORD Waits with **Tender** Heart <%= bible('is30.18-19', '(v18-19)') %>
-1. Our **Teacher** Calls Us <%= bible('is30.20-21', '(v20-21)') %>
-1. **Throw** Away Our Idols <%= bible('is30.22', '(v22)') %>
+1. **Turn** to the Saviour's Rest [(v15)](# "ref")
+1. Away From Our Own **Tactics** [(v16-17)](# "ref")
+1. The LORD Waits with **Tender** Heart [(v18-19)](# "ref")
+1. Our **Teacher** Calls Us [(v20-21)](# "ref")
+1. **Throw** Away Our Idols [(v22)](# "ref")
 
 ---
 In **repentance** and **rest** is your salvation, <br/>
@@ -131,10 +137,16 @@ to look God in the face and say, "**No**".
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Amid **stress**, do **rest** in God alone? 
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Turn <%= bible('(Is30)') %>
+1. Turn to the Saviour's Rest [(v15)](# "ref")
+1. **Away From Our Own Tactics** [(v16-17)](# "ref")
+1. The LORD Waits with Tender Heart [(v18-19)](# "ref")
+1. Our Teacher Calls Us [(v20-21)](# "ref")
+1. Throw Away Our Idols [(v22)](# "ref")
 
 ---
 You said, ‘**No**, we will flee on horses.’ <br/>
@@ -186,7 +198,13 @@ like a **banner** on a hill.”
 # Q2
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Turn <%= bible('(Is30)') %>
+1. Turn to the Saviour's Rest [(v15)](# "ref")
+1. Away From Our Own Tactics [(v16-17)](# "ref")
+1. **The LORD Waits with Tender Heart** [(v18-19)](# "ref")
+1. Our Teacher Calls Us [(v20-21)](# "ref")
+1. Throw Away Our Idols [(v22)](# "ref")
 
 ---
 Yet the Lord **longs** to be **gracious** to you;
@@ -239,7 +257,13 @@ As soon as he hears, he will **answer** you.
 # Q3
 
 ---
-## outline 4
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Turn <%= bible('(Is30)') %>
+1. Turn to the Saviour's Rest [(v15)](# "ref")
+1. Away From Our Own Tactics [(v16-17)](# "ref")
+1. The LORD Waits with Tender Heart [(v18-19)](# "ref")
+1. **Our Teacher Calls Us** [(v20-21)](# "ref")
+1. Throw Away Our Idols [(v22)](# "ref")
 
 ---
 Although the Lord gives you  <br/>
@@ -280,7 +304,13 @@ saying, “This is the **way**; walk in it.”
 # Q4
 
 ---
-## outline 5
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Turn <%= bible('(Is30)') %>
+1. Turn to the Saviour's Rest [(v15)](# "ref")
+1. Away From Our Own Tactics [(v16-17)](# "ref")
+1. The LORD Waits with Tender Heart [(v18-19)](# "ref")
+1. Our Teacher Calls Us [(v20-21)](# "ref")
+1. **Throw Away Our Idols** [(v22)](# "ref")
 
 ---
 Then you will **desecrate**  <br/>

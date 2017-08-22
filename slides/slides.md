@@ -207,7 +207,7 @@ like a **banner** on a hill.”
 
 ---
 <!-- .slide: data-background="white" -->
-# What **plans** have I made apart from God?
+# What **plans** have I made **without** God?
 
 ---
 <!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->

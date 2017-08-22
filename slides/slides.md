@@ -98,6 +98,7 @@ and say to them, “**Away** with you!”
   <span class="zh">拋棄我們的偶像</span>
 
 ---
+<!-- .slide: <%= bg("unsplash-JZOQOGBrj8c-mother_daughter_kiss_trees.jpg") %> -->
 In **repentance** and **rest** is your salvation, <br/>
 in **quietness** and **trust** is your strength, <br/>
 
@@ -157,6 +158,7 @@ to look God in the face and say, "**No**".
   <span class="zh">拋棄我們的偶像</span>
 
 ---
+<!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
 You said, ‘**No**, we will flee on horses.’ <br/>
 Therefore you will **flee**! <br/>
 You said, ‘We will **ride off** on swift horses.’ <br/>
@@ -171,6 +173,7 @@ Therefore your **pursuers** will be swift!
   + :6-7 send **money** for nothing
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 “Woe to the **obstinate** children,” <br/>
 declares the Lord,
 
@@ -186,6 +189,7 @@ heaping **sin** upon sin
 + e.g. Dan herbal supplements
 
 ---
+<!-- .slide: <%= bg("unsplash-njM4it9erx4-peru_ruins.jpg") %> -->
 A **thousand** will flee at the threat of **one**; <br/>
 at the threat of five you will **all** flee away,
 
@@ -219,6 +223,7 @@ like a **banner** on a hill.”
   <span class="zh">拋棄我們的偶像</span>
 
 ---
+<!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
 Yet the Lord **longs** to be **gracious** to you;
 
 therefore he will **rise up** <br/>
@@ -234,6 +239,7 @@ to show you **compassion**.
   + e.g., connected to JJ
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 Then the Lord [...] proclaimed his **name**: [...]
 
 “The Lord, the Lord, <br/>
@@ -247,6 +253,7 @@ abounding in **love** and faithfulness
 + tablet self-intro: **char** of God
 
 ---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 For the Lord is a God of **justice**. <br/>
 Blessed are all who **wait** for him!
 
@@ -282,6 +289,7 @@ As soon as he hears, he will **answer** you.
   <span class="zh">拋棄我們的偶像</span>
 
 ---
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
 Although the Lord gives you  <br/>
 the bread of **adversity** <br/>
 and the water of **affliction**,
@@ -302,6 +310,7 @@ with your own eyes you will **see** them.
   + e.g. JJ can't read, frustrated
 
 ---
+<!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
 Whether you **turn** to the right or to the left, <br/>
 your ears will hear a **voice** behind you, <br/>
 saying, “This is the **way**; walk in it.”
@@ -333,6 +342,7 @@ saying, “This is the **way**; walk in it.”
   <span class="zh">拋棄我們的偶像</span>
 
 ---
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 Then you will **desecrate**  <br/>
 your **idols** overlaid with silver  <br/>
 and your images covered with gold;
@@ -356,6 +366,7 @@ and say to them, “**Away** with you!”
 + Ps27:8 your **face**, LORD, I will seek
 
 ---
+<!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
 **Hear** my voice when I call, Lord; <br/>
 be **merciful** to me and **answer** me.
 

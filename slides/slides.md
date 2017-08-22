@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What do I do to **relax**?
+# What do I do <br/> to **relax**?
 
 [###](#/outline "secret")
 
@@ -369,7 +369,7 @@ Your **face**, Lord, I will seek.
 # Amid **stress**, do **seek** God alone?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> -->
 In **repentance** and **rest** is your salvation, <br/>
 in **quietness** and **trust** is your strength, <br/>
 
@@ -378,4 +378,4 @@ but you would have **none** of it.
 [Isaiah 30:15 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-GoRsrsoxoL8-fish_blue.jpg") %> class="empty" -->

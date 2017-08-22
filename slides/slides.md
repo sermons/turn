@@ -141,7 +141,7 @@ to look God in the face and say, "**No**".
 
 ---
 <!-- .slide: data-background="white" -->
-# Amid **stress**, do **rest** in God alone? 
+# Am I **willing** to ask God for rest? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
@@ -199,7 +199,7 @@ like a **banner** on a hill.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# What **plans** have I made apart from God? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
@@ -258,7 +258,7 @@ As soon as he hears, he will **answer** you.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I think of God as **severe** or **gracious**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
@@ -305,7 +305,7 @@ saying, “This is the **way**; walk in it.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Is God's will **knowable**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
@@ -350,7 +350,7 @@ Your **face**, Lord, I will seek.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q5
+# Amid **stress**, do **seek** God alone? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->

@@ -1,19 +1,18 @@
 {
-  "name": "@sermons/turn",
-  "repository": "sermons/turn",
-  "description": "Is30:15-22 Turn (1/3)",
+  "name": "@sermons/reveal-skel",
+  "repository": "sermons/reveal-skel",
+  "description": "A template for Reveal.js-based presentations",
   "keywords": [
-    "sermon",
-    "soar"
+    "slides"
   ],
-  "version": "2.5.0",
+  "version": "2.5.5",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "turn.seanho.com",
+    "cname": "reveal-skel.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "07331d0e91d12f31"
+      "id": "22bc761ffc97809b"
     },
     "git": {
       "name": "Sean Ho",
@@ -21,26 +20,14 @@
     },
     "history": [
       {
-        "venue": "Evangelical Chinese Bible Church",
-        "city": "Coquitlam",
-        "date": "2017-08-22",
-        "duration": 0
-      },
-      {
-        "venue": "First Chinese NA Baptist Church",
-        "city": "Vancouver",
-        "date": "2016-05-01",
-        "duration": 0
-      },
-      {
-        "venue": "Bethel Chinese MB Church",
-        "city": "Vancouver",
-        "date": "2016-05-01",
+        "venue": "Venue of talk",
+        "city": "Location",
+        "date": "2000-01-01",
         "duration": 0
       }
     ],
     "slides": [
-      "slides.md"
+      "sample.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0",
     "mathjax": "https://cdn.jsdelivr.net/npm/mathjax@2",
@@ -87,20 +74,20 @@
   "private": true,
   "dependencies": {
     "highlight.js": "^10.7.2",
-    "reveal.js": "^4.1.0",
-    "socket.io-client": "^4.0.1"
+    "reveal.js": "^4.1.3",
+    "socket.io-client": "^4.1.2"
   },
   "devDependencies": {
     "coffeescript": "^2.5.1",
     "decktape": "^3.1.0",
-    "grunt": "^1.4.0",
+    "grunt": "^1.4.1",
     "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-exec": "^3.0.0",
     "grunt-sass": "^3.1.0",
     "ini": "^2.0.0",
     "load-grunt-tasks": "^5.1.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
     "qrcode": "^1.4.4"
   },
   "scripts": {

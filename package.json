@@ -1,15 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/turn",
+  "repository": "sermons/turn",
+  "description": "Is30:15-22, Turn (1/3)",
   "keywords": [
-    "slides"
+    "sermon",
+    "isaiah",
+    "soar"
   ],
   "version": "2.5.12",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "turn.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,14 +22,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Coquitlam",
+        "date": "2017-08-23",
         "duration": 0
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0",
     "css": [
